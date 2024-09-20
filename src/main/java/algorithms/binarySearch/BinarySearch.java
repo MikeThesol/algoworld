@@ -14,6 +14,7 @@ public class BinarySearch {
             else high = mid - 1;
         }
         return -1;
+
     }
 
 }
