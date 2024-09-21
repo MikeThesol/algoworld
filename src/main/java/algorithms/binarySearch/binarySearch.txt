@@ -1,2 +1,4 @@
 leetcode:
-https://leetcode.com/problems/binary-search/submissions/1395249841/
+1. https://leetcode.com/problems/binary-search/submissions/1395249841/
+2. https://leetcode.com/problems/guess-number-higher-or-lower/submissions/1397235002/
+3. https://leetcode.com/problems/first-bad-version/submissions/1397189710/
